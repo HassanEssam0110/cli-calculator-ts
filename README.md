@@ -78,10 +78,3 @@ node ./dist/index.js
 
 - [Inquirer.js](https://www.npmjs.com/package/inquirer) for interactive prompts.
 
-## Author
-
-**Hassan Essam**
-
-## License
-
-This project is licensed under the ISC License.

@@ -1,0 +1,20 @@
+{
+  "name": "simple-calculator",
+  "version": "1.0.0",
+  "description": "This is a Command-Line Interface (CLI) Calculator built with TypeScript and Inquirer.js for an interactive and user-friendly experience.",
+  "license": "ISC",
+  "author": "Hassan Essam",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node ./dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "inquirer": "^12.5.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
